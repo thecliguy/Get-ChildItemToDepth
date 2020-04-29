@@ -1,9 +1,6 @@
 # Get-ChildItemToDepth
 Traverses a path recursively to a specified depth.
 
-# Get-ChildItemToDepth
-Traverses a path recursively to a specified depth.
-
 DESCRIPTION
 ------------
 This function acts as a wrapper around `Get-ChildItem`, facilitating recursive traversal of a path to a specific depth.
